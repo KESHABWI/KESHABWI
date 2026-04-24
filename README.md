@@ -1,5 +1,3 @@
-Keshab Kamal's GitHub Profile README
-Copy the content below and paste it into the README.md of your special GitHub repository (the one named after your username).
 
 markdown
 <div align="center">
