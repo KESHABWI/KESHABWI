@@ -46,9 +46,14 @@ I am a high-impact **Backend Developer** and **AI/ML enthusiast** with a passion
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KESHABWI&show_icons=true&theme=tokyonight&count_private=true" alt="Keshab's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHABWI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KESHABWI&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Keshab's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KESHABWI&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHABWI&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" height="180px" />
+</p>
+> [!TIP]
+> **To show your private contributions:** Go to your GitHub Profile -> Click on your Contribution Graph -> Click "Contribution settings" -> Enable "Private contributions".
 ---
 ### 🌟 Featured Projects
 #### 🤖 [AI RAG Chatbot](https://github.com/KESHABWI/ai-rag-chatbot)
