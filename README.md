@@ -49,23 +49,7 @@ I am a high-impact **Backend Developer** and **AI/ML enthusiast** with a passion
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHABWI&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" height="180px" />
 </p>
-> [!TIP]
-> **To show your private contributions:** Go to your GitHub Profile -> Click on your Contribution Graph -> Click "Contribution settings" -> Enable "Private contributions".
----
-### 🌟 Featured Projects
-#### 🤖 [AI RAG Chatbot](https://github.com/KESHABWI/ai-rag-chatbot)
-*LangChain, LangGraph, FastAPI, Pinecone, Groq*
-- Architected a multi-agent RAG system for high-precision PDF querying.
-- Implemented automated routing and "Judge Agent" layers to minimize LLM hallucinations.
-#### 👗 [Virtual Try-On: Generative Clothing Model](https://github.com/KESHABWI/virtual-try-on)
-*PyTorch, Stable Diffusion XL, HuggingFace*
-- Developed a diffusion-based system for realistic digital clothing overlays.
-- Integrated IP-Adapter and fine-tuned SDXL models for texture preservation.
-#### 🏢 [Multi-Tenant Role-Based SaaS API](https://github.com/KESHABWI/multi-tenant-saas)
-*Django, DRF, JWT, PostgreSQL*
-- Designed secure schema-based data isolation and hierarchical RBAC.
-- Custom permission classes for branch-level access control.
----
+
 ### 📫 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/keshab-kamal-674b86238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
