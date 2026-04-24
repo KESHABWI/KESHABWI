@@ -62,10 +62,7 @@ I am a high-impact **Backend Developer** and **AI/ML enthusiast** with a passion
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KESHABWI&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" height="180px" />
 </p>
 
-> [!TIP]
-> **To show your private contributions:** Go to your GitHub Profile -> Click on your Contribution Graph -> Click "Contribution settings" -> Enable "Private contributions".
 
----
 
 ### 🌟 Featured Projects
 
