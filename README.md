@@ -1,5 +1,4 @@
 
-markdown
 <div align="center">
   <img src="https://raw.githubusercontent.com/KESHABWI/KESHABWI/main/banner.png" width="100%" alt="Keshab Kamal Banner" />
 </div>
